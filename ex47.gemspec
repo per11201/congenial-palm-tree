@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
 
   spec.files         = ['lib/ex47.rb']
   spec.executables   = ['ex47']
-  spec.test_files    = ['tests/test_ex47.rb']
+# spec.test_files    = ['tests/test_ex47.rb']
   spec.require_paths = ["lib"]
 end
 
